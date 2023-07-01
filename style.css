@@ -51,6 +51,11 @@ img#big {
     width: 5.8vh;
 }
 
+.board .big-box#X, .board .big-box#O {
+    background-color: #A1D2FF !important;
+}
+
+
 .title {
     position: absolute;
     left: 50%;
