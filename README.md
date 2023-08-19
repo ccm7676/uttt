@@ -1,2 +1,2 @@
 # UTTT
-Ultimate Tik Tak Toe game written in pure HTML CSS and JS
+a lightweight Ultimate Tik Tak Toe game written in pure HTML CSS and JS
